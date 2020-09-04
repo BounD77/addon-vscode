@@ -9,7 +9,7 @@
   "panel_icon": "mdi:microsoft-visual-studio-code",
   "startup": "services",
   "init": false,
-  "arch": ["aarch64", "amd64"],
+  "arch": ["aarch64", "amd64", "armv71"],
   "boot": "auto",
   "auto_uart": true,
   "hassio_api": true,
